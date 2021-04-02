@@ -308,6 +308,14 @@ a {
     max-width: 50%;
 }
 
+.img-preview {
+    max-width: 100%;
+    background-color: transparent;
+    z-index: 1;
+    margin-bottom: -50rem;
+    opacity: 50%;
+}
+
 
 .title-orange {
     border-left: 4px solid #FFA552;
