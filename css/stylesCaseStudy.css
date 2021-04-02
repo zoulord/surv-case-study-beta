@@ -314,6 +314,8 @@ a {
     z-index: 1;
     margin-bottom: -50rem;
     opacity: 50%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 
 
